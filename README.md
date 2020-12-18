@@ -10,6 +10,11 @@ ROM: https://sourceforge.net/projects/lineageos-18-0-for-galaxy-j5/files/j5nlte/
 
 ### Android 10
 
+TWRP: https://git.io/JLRLP
+
+
 ### Android 9
+
+TWRP: https://git.io/JLRLP
 
 Gapps: https://deac-ams.dl.sourceforge.net/project/opengapps/arm/20201218/open_gapps-arm-9.0-stock-20201218.zip
