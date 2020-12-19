@@ -8,6 +8,8 @@ TWRP: https://git.io/JLRLP | https://bit.ly/3r4yeUV | https://bit.ly/3my5eBs
 
 ROM: https://sourceforge.net/projects/lineageos-18-0-for-galaxy-j5/files/j5nlte/20201117/lineage-18.0-20201117-UNOFFICIAL-j5nlte.zip/download
 
+Gapps: https://nav.dl.sourceforge.net/project/rexum/custom-rom/gapps/BiTGApps-arm-11.0.0-R19_signed.zip
+
 ### Android 10
 
 TWRP: https://git.io/JLRLP | https://bit.ly/3r4yeUV | https://bit.ly/3my5eBs
