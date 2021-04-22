@@ -4,7 +4,7 @@
 
 ### Android 11
 
-TWRP: https://git.io/JLRLP | https://bit.ly/3r4yeUV | https://bit.ly/3my5eBs
+TWRP: https://git.io/JLRLP | https://bit.ly/3r4yeUV
 
 ROM: https://sourceforge.net/projects/lineageos-18-0-for-galaxy-j5/files/j5nlte/20201117/lineage-18.0-20201117-UNOFFICIAL-j5nlte.zip/download
 
